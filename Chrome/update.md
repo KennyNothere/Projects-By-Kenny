@@ -43,7 +43,7 @@
 
 8/5/2025
 
--Added all the link to thier website
+-Added all the link to their website
 -Added footer 
     -added "Customize this page"
 -Added 3 tooltip boxes 
